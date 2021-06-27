@@ -1,5 +1,5 @@
 {% set name = "sanic-routing" %}
-{% set version = "0.7.0rc1" %}
+{% set version = "0.7.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sanic-routing-{{ version }}.tar.gz
-  sha256: b934cb57e48fd8d73d714b36e922ffe27018b10391c8426ced39a93deaa8b7b5
+  sha256: bd6e30b9252d3500e0224e9bb64ba52561638991cefa1f7281c3ba75795c7df9
 
 build:
   number: 0

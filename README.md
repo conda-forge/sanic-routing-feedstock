@@ -1,11 +1,11 @@
-About sanic-routing
-===================
+About sanic-routing-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sanic-routing-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sanic-org/sanic-routing/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sanic-routing-feedstock/blob/main/LICENSE.txt)
 
 Summary: Core routing component for Sanic
 
